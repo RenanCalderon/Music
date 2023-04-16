@@ -5,3 +5,4 @@ files/parameters.py
 tests/info_song.html
 tests/search_song.html
 search
+.pytest_cache/
