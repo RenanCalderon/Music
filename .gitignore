@@ -6,4 +6,6 @@ tests/info_song.html
 tests/search_song.html
 search
 Music/__pycache__/
+tests/__pycache__/
+files/__pycache__/
 __pycache__/
