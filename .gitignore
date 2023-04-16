@@ -1,0 +1,7 @@
+.venv/
+.idea
+files/parameters.py
+.pytest_cache
+tests/info_song.html
+tests/search_song.html
+search
