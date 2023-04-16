@@ -5,5 +5,5 @@ files/parameters.py
 tests/info_song.html
 tests/search_song.html
 search
-Music/__pycache__
-__pycache__
+Music/__pycache__/
+__pycache__/
